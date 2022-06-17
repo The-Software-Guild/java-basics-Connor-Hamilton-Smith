@@ -1,3 +1,4 @@
+package com.wiley.c242.connorhs;
 
 public class SummativeSums
 {

@@ -1,3 +1,4 @@
+package com.wiley.c242.connorhs;
 
 import java.util.Random;
 import java.util.Scanner;
